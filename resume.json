@@ -11,14 +11,19 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "GitHub",
+        "username": "JaronAli",
+        "url": "https://github.com/JaronAli"
       },
       {
         "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.example.com/dandymusicnl"
+        "username": "jaronali",
+        "url": "https://soundcloud.com/jaronali/tracks"
+      },
+      {
+        "network": "Mixcloud",
+        "username": "jaronali",
+        "url": "https://www.mixcloud.com/jaronali/"
       }
     ]
   },
