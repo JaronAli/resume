@@ -198,27 +198,26 @@
   ],
   "projects": [
     {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
-      "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
-      ],
-      "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
-      ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
+      "name": "Head Boy at Sherrardswood School,",
+      "description": "Responsible for whole-school charity events, presentations and speeches to staff, parents and students",
+      "startDate": "2008-08-24",
+      "endDate": "2012-08-24",
       "roles": [
-        "Team lead",
-        "Designer"
+        "Student"
       ],
-      "entity": "Smoogle",
+      "entity": "School",
       "type": "application"
+    },
+    {
+      "name": "Work shadowing at Goldman Sachs",
+      "description": "including visiting a large-scale data centre to learn about free-cooling techniques and the operational challenges of running mission-critical systems at scale.",
+      "startDate": "2008-08-24",
+      "endDate": "2012-08-24",
+      "roles": [
+        "Work Shadowing"
+      ],
+      "entity": "Goldman Sachs",
+      "type": "volunteering"
     }
   ],
   "meta": {
